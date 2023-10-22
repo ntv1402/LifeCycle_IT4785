@@ -1,4 +1,4 @@
-package com.bn2002.validationregister
+package com.ntv1402.validationregister
 
 import android.app.AlertDialog
 import android.app.DatePickerDialog
@@ -9,7 +9,7 @@ import android.os.Bundle
 import android.widget.DatePicker
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.bn2002.validationregister.databinding.ActivityMainBinding
+import com.ntv1402.validationregister.databinding.ActivityMainBinding
 import java.util.*
 
 
