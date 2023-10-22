@@ -1,4 +1,4 @@
-package com.bn2002.validationregister
+package com.ntv1402.validationregister
 
 import org.junit.Test
 
